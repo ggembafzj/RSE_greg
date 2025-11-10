@@ -28,6 +28,6 @@ six==1.17.0
 tzdata==2025.2
 wheel==0.45.1
 
-Please install them by pip install runing the following line: !pip install -r requirements.txt
+Please install them by pip install runing the following line: 
 
 Date: 10.11.2025
